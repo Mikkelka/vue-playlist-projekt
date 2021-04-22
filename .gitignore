@@ -1,7 +1,8 @@
 .DS_Store
 node_modules
 /dist
-config.js
+/src/firebase/config.js
+/.firebase/hosting.ZGlzdA.cache
 
 # local env files
 .env.local
